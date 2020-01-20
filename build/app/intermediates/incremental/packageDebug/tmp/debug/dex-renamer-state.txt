@@ -1,0 +1,4 @@
+#Mon Aug 26 16:43:08 PDT 2019
+base.0=/Users/wassimkhelifi/khelico_projects/meteo_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
